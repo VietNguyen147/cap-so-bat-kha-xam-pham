@@ -1,0 +1,14 @@
+C:\Users\Nguyen Viet Anh\source\repos\capsobatkhaxampham\capsobatkhaxampham\bin\Debug\net6.0\capsobatkhaxampham.exe
+C:\Users\Nguyen Viet Anh\source\repos\capsobatkhaxampham\capsobatkhaxampham\bin\Debug\net6.0\capsobatkhaxampham.deps.json
+C:\Users\Nguyen Viet Anh\source\repos\capsobatkhaxampham\capsobatkhaxampham\bin\Debug\net6.0\capsobatkhaxampham.runtimeconfig.json
+C:\Users\Nguyen Viet Anh\source\repos\capsobatkhaxampham\capsobatkhaxampham\bin\Debug\net6.0\capsobatkhaxampham.dll
+C:\Users\Nguyen Viet Anh\source\repos\capsobatkhaxampham\capsobatkhaxampham\bin\Debug\net6.0\capsobatkhaxampham.pdb
+C:\Users\Nguyen Viet Anh\source\repos\capsobatkhaxampham\capsobatkhaxampham\obj\Debug\net6.0\capsobatkhaxampham.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nguyen Viet Anh\source\repos\capsobatkhaxampham\capsobatkhaxampham\obj\Debug\net6.0\capsobatkhaxampham.AssemblyInfoInputs.cache
+C:\Users\Nguyen Viet Anh\source\repos\capsobatkhaxampham\capsobatkhaxampham\obj\Debug\net6.0\capsobatkhaxampham.AssemblyInfo.cs
+C:\Users\Nguyen Viet Anh\source\repos\capsobatkhaxampham\capsobatkhaxampham\obj\Debug\net6.0\capsobatkhaxampham.csproj.CoreCompileInputs.cache
+C:\Users\Nguyen Viet Anh\source\repos\capsobatkhaxampham\capsobatkhaxampham\obj\Debug\net6.0\capsobatkhaxampham.dll
+C:\Users\Nguyen Viet Anh\source\repos\capsobatkhaxampham\capsobatkhaxampham\obj\Debug\net6.0\refint\capsobatkhaxampham.dll
+C:\Users\Nguyen Viet Anh\source\repos\capsobatkhaxampham\capsobatkhaxampham\obj\Debug\net6.0\capsobatkhaxampham.pdb
+C:\Users\Nguyen Viet Anh\source\repos\capsobatkhaxampham\capsobatkhaxampham\obj\Debug\net6.0\capsobatkhaxampham.genruntimeconfig.cache
+C:\Users\Nguyen Viet Anh\source\repos\capsobatkhaxampham\capsobatkhaxampham\obj\Debug\net6.0\ref\capsobatkhaxampham.dll
